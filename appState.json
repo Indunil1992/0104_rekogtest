@@ -1,0 +1,72 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "097b3da5-af15-4dc5-af24-91f886f611a3": {
+        "id": "097b3da5-af15-4dc5-af24-91f886f611a3",
+        "parent": null,
+        "name": "0104_rekogtest.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "0104_rekogtest.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 7
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "0104rekogtest"
+        },
+        "triggers": [],
+        "lastUpdated": 1602492463092
+      }
+    },
+    "openFiles": [
+      "097b3da5-af15-4dc5-af24-91f886f611a3"
+    ],
+    "currentFileId": "097b3da5-af15-4dc5-af24-91f886f611a3",
+    "resources": {},
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": "CloudFormation",
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.4.4",
+    "projectName": "0104_rekogtest",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1602492465502
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "0104_rekogtest",
+      "url": "https://github.com/Indunil1992/0104_rekogtest"
+    }
+  }
+}
