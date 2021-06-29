@@ -15,7 +15,7 @@
           "column": 7
         },
         "config": {
-          "runtime": "nodejs10.x",
+          "runtime": "nodejs12.x",
           "handler": "handler",
           "timeout": 60,
           "memory": 128,
@@ -23,7 +23,7 @@
           "name": "0104rekogtest"
         },
         "triggers": [],
-        "lastUpdated": 1602492463092
+        "lastUpdated": 1624941981824
       }
     },
     "openFiles": [
@@ -52,7 +52,7 @@
     }
   },
   "PROJECT_META": {
-    "sigmaVersion": "1.4.4",
+    "sigmaVersion": "1.8.1",
     "projectName": "0104_rekogtest",
     "projectDescription": "",
     "projectVersion": "1.0.0",
@@ -60,7 +60,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1602492465502
+    "lastSave": 1624942000532
   },
   "VCS_STATE": {
     "provider": "GitHub",
